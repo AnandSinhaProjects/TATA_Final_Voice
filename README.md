@@ -20,7 +20,7 @@ For this assignment we were asked to make a Artificial Intelligence Model that c
 
 ## This is the basic view of the algorithms architecture.
 
-![Image.png](https://res.craft.do/user/full/b39bc00a-f6ef-8bc0-9003-92e051599ad2/doc/99159D6D-BD45-49DE-BB35-DFC02987B611/19ED27CF-6E82-4772-ACEF-233A4BE233BF_2/AhEEltiK9I0js1jEO23j4Ly9sAolV1YiVGhoh449bhcz/Image.png)
+![Image.png](https://res.craft.do/user/full/b39bc00a-f6ef-8bc0-9003-92e051599ad2/doc/99159D6D-BD45-49DE-BB35-DFC02987B611/BC8441BC-2B0D-4273-9DC6-14F90AEA7375_2/zbsTd5rvWxjzD4Pgakx1Kwy3FwBLwj8xaE3So67Qh0Az/output-onlinepngtools.png)
 
 Large Model Download Link - [https://alphacephei.com/vosk/models/vosk-model-en-in-0.5.zip](https://alphacephei.com/vosk/models/vosk-model-en-in-0.5.zip)
 
